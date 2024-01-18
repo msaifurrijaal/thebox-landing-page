@@ -1,7 +1,29 @@
 const Contact = () => {
   return (
     <section id="contact">
-      <div className="container pb-12 md:pb-36">
+      <div className="w-full flex flex-wrap">
+        <div className="w-full sm:w-1/2 design-bg bg-cover" />
+        <div className="w-full sm:w-1/2 px-5 py-12 md:px-16 bg-slate-100  ">
+          <h1 className="text-2xl sm:text-4xl font-bold">
+            Our recommendations, your decision
+          </h1>
+          <p className="mt-5">
+            We invite you to explore our services and contact us to discuss your
+            needs and ideas. We start with a detailed understanding of your
+            needs, preferences and budget. We will work to create a design plan
+            that reflects your unique style.
+          </p>
+          <p className="mt-5">• Initial Consultation</p>
+          <p>• Detailed Assessment</p>
+          <p>• Collaborative Ideation</p>
+          <p>• Innovative Solutions</p>
+          <p>• Quality Craftsmanship</p>
+          <p>• Timely Execution</p>
+          <p>• Budget-Friendly Options</p>
+          <p>• Post-Project Support</p>
+        </div>
+      </div>
+      <div className="container py-12 md:py-28">
         <div className="mx-auto w-10/12 md:w-4/12">
           <h4 className="text-xl md:text-4xl font-bold text-center">
             What can us do for you?

@@ -30,3 +30,7 @@
 .consul-bg {
   @apply bg-[url('/images/home-design.jpg')]
 }
+
+.design-bg {
+  @apply bg-[url('/images/services/design-interior.jpg')]
+}

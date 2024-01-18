@@ -11,7 +11,7 @@ const Project = () => {
           <div className="w-full sm:w-1/2 lg:w-1/3 px-2 sm:px-6 mb-4 sm:mb-10 cursor-pointer hover:scale-105 transition duration-300">
             <div className="bg-primary">
               <img
-                src="/images/projects/wildstone.png"
+                src="/images/projects/wildstone.jpg"
                 alt="Wildstone project"
                 className="w-full"
               />
@@ -45,15 +45,17 @@ const Project = () => {
           <div className="w-full sm:w-1/2 lg:w-1/3 px-2 sm:px-6 mb-4 sm:mb-10 cursor-pointer hover:scale-105 transition duration-300">
             <div className="bg-primary">
               <img
-                src="/images/projects/wishstone.png"
-                alt="Wish Stone projetc"
+                src="/images/projects/horizon.jpg"
+                alt="Infinity Horizon Villas projetc"
                 className="w-full"
               />
               <div className="px-4 py-2">
                 <h3 className="font-semibold text-lg text-white mb-1">
-                  Wish Stone Building
+                  Infinity Horizon Villas
                 </h3>
-                <p className="mt-2 text-white">2972 Westheimer Rd. Ana, Illinois</p>
+                <p className="mt-2 text-white">
+                  2972 Westheimer Rd. Ana, Illinois
+                </p>
               </div>
             </div>
           </div>
