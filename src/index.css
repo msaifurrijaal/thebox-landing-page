@@ -26,3 +26,7 @@
 .hero-image {
   @apply bg-[url('/images/hero.jpg')];
 }
+
+.consul-bg {
+  @apply bg-[url('/images/home-design.jpg')]
+}

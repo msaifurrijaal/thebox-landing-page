@@ -88,6 +88,31 @@ const Service = () => {
           </div>
         </div>
       </div>
+      <div
+        className="bg-cover bg-center w-full consul-bg"
+      >
+        <div className="p-24 px-4 flex flex-wrap justify-between items-center xl:w-10/12 xl:mx-auto">
+          <div className="w-full mb-6 text-center sm:text-start sm:w-2/3 sm:mb-0">
+            <h1 className="text-xl md:text-4xl font-semibold text-white">
+              Free consultation with exceptional quality
+            </h1>
+            <p className="text-white mt-3">
+              Just one call away:{" "}
+              <a href="" className="underline">
+                +84 1102 2703
+              </a>
+            </p>
+          </div>
+          <div className="w-full sm:w-1/3 flex justify-center sm:justify-end">
+            <a
+              href="#"
+              className="inline-block rounded py-2 px-4 text-sm text-center text-white border-2 border-white hover:opacity-80"
+            >
+              Get your consultation
+            </a>
+          </div>
+        </div>
+      </div>
     </section>
   );
 };
