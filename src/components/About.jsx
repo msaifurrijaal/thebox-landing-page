@@ -11,11 +11,11 @@ const About = () => {
               <h4 className="font-bold text-white text-xl md:text-4xl">About Us</h4>
               <p className="mt-8 md:text-lg text-white">
                 For more than 30 years we have been delivering world-className
-                construction and we've built many lasting relationships along
+                construction and we`&apos;`ve built many lasting relationships along
                 the way.
               </p>
               <p className="mt-6 md:text-lg text-white">
-                We've matured into an industry leader and trusted resource for
+                We`&apos;`ve matured into an industry leader and trusted resource for
                 those seeking quality, innovation and reliability when building
                 in the U.S.
               </p>
